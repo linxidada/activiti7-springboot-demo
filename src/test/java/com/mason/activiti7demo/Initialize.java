@@ -4,7 +4,7 @@ import org.activiti.engine.impl.db.DbSchemaCreate;
 
 /**
  * @Description
- * @Author zhuyumeng
+ * @Author zhuyumeng  生成数据库表
  * @Date 2020-02-21 16:06
  * @Version 1.0
  */
